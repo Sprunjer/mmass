@@ -1,3 +1,9 @@
+%%%%%%%%%%%%%%
+
+PLANNING TO MAKE IT A STARTING POINT FOR HASKELL BASED WORK~~~~~~~~
+
+~Fana 
+
 # MMass v5.5.0
 **This repository is just a copy from the [original project's website](http://www.mmass.org/).**
 
